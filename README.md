@@ -1,16 +1,15 @@
-## Hi there 👋
+#### About Me:
+- Hiya~! My name is Pocket! I'm just a person that likes to mess around with Raspberry Pi's (and also a furry.)
+- Pronouns: he/him
 
-<!--
-**PocketPii/PocketPii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Current Setup:
 
-Here are some ideas to get you started:
+- Ryzen 7 7730U
+- 16GB DDR4
+- 1TB SSD + 1TB NAS
+- Radeon Graphics
+- Windows 10 LSTC
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+pfp from: [https://bit.ly/4gL1B8G](https://bit.ly/4gL1B8G) (changed colors a bit)
+
+<em>:3</em>
