@@ -10,6 +10,4 @@
 - Radeon Graphics
 - Windows 10 LSTC
 
-pfp from: [https://bit.ly/4gL1B8G](https://bit.ly/4gL1B8G) (changed colors a bit)
-
 <em>:3</em>
