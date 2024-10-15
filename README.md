@@ -8,6 +8,6 @@
 - 16GB DDR4
 - 1TB SSD + 1TB NAS
 - Radeon Graphics
-- Windows 10 LSTC
+- Windows 11 LSTC
 
 <em>:3</em>
