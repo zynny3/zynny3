@@ -1,13 +1,13 @@
 #### About Me:
-- Hiya~! My name is Pocket! I'm just a person that likes to mess around with Raspberry Pi's (and also a furry.)
-- Pronouns: he/him
+- Hiya~! My name is Zynny! I'm just a person that likes to mess around with old techonlogy!
+- Pronouns: any
 
 #### Current Setup:
 
-- Ryzen 7 7730U
+- Intel i5-12400F
 - 16GB DDR4
 - 1TB SSD + 1TB NAS
-- Radeon Graphics
+- RTX 4060
 - Windows 11 LSTC
 
 <em>:3</em>
